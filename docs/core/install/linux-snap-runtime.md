@@ -37,7 +37,7 @@ The following steps install the .NET 9 runtime snap package:
 01. Use `snap install` to install the .NET Runtime snap package. For example, the following command installs the .NET 8 runtime.
 
     ```bash
-    sudo snap install dotnet-runtime-80
+    sudo snap install dotnet-runtime-90
     ```
 
 Each .NET Runtime is published as an individual snap package. The following table lists the packages:
